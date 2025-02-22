@@ -1,0 +1,1 @@
+land_scale_lock = true;

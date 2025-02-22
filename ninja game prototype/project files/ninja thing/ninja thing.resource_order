@@ -1,0 +1,14 @@
+{
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"oGui","order":2,"path":"objects/oGui/oGui.yy",},
+    {"name":"shStripes","order":2,"path":"shaders/shStripes/shStripes.yy",},
+    {"name":"sPlayerRun","order":1,"path":"sprites/sPlayerRun/sPlayerRun.yy",},
+    {"name":"shBulgeStripes","order":3,"path":"shaders/shBulgeStripes/shBulgeStripes.yy",},
+    {"name":"oPlayerHead","order":1,"path":"objects/oPlayerHead/oPlayerHead.yy",},
+    {"name":"oCamera","order":1,"path":"objects/oCamera/oCamera.yy",},
+    {"name":"shBulge","order":1,"path":"shaders/shBulge/shBulge.yy",},
+    {"name":"shAngle","order":4,"path":"shaders/shAngle/shAngle.yy",},
+    {"name":"r0","order":1,"path":"rooms/r0/r0.yy",},
+  ],
+}

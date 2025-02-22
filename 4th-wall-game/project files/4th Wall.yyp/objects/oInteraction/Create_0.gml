@@ -1,0 +1,3 @@
+line = [];
+avatar = [];
+face = [];

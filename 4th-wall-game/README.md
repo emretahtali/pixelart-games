@@ -28,7 +28,6 @@ G - restarts the game
 F - fullscreen on/off
 
 ---
-![intro](https://github.com/user-attachments/assets/0a27ae78-e931-4f09-8ccb-5db91504a581)
-![roomtour1](https://github.com/user-attachments/assets/18d6907f-3826-45f4-8f4d-9284d63c56ac)
-![roomtour2](https://github.com/user-attachments/assets/84d7d522-0a78-459a-86c6-01b453c4fbd6)
-![bathroom](https://github.com/user-attachments/assets/e75881ba-cecd-4429-a5aa-329c2ebdff79)
+| ![intro](https://github.com/user-attachments/assets/0a27ae78-e931-4f09-8ccb-5db91504a581) | ![roomtour1](https://github.com/user-attachments/assets/18d6907f-3826-45f4-8f4d-9284d63c56ac) |
+|--------------|--------------|
+| ![roomtour2](https://github.com/user-attachments/assets/84d7d522-0a78-459a-86c6-01b453c4fbd6) | ![bathroom](https://github.com/user-attachments/assets/e75881ba-cecd-4429-a5aa-329c2ebdff79) |

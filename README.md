@@ -1,5 +1,6 @@
 # pixelart-games
 ## [4th wall game prototype](https://github.com/emretahtali/pixelart-games/tree/main/4th-wall-game)
+![roomtour1](https://github.com/user-attachments/assets/cabe440e-051f-4631-b2db-3d83e4f452fe)
 
 ## [a way out](https://github.com/emretahtali/pixelart-games/tree/main/a%20way%20out)
 

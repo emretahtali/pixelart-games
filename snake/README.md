@@ -1,6 +1,9 @@
 [📌itch.io](https://emretahtali.itch.io/snake)
+---
+| ![gameplay1](https://github.com/user-attachments/assets/b85dfde2-93b6-4ca9-a379-9f279de36168) | ![gameplay2](https://github.com/user-attachments/assets/5ffc325c-7e66-4e7b-9e1d-b76318707d2b) |
+|--------------|--------------|
 
-this is a snake game i made out of boredom in 2020.
+this is a snake game i've made out of boredom in 2020.
 
 it's made in GameMaker Studio 2.
 
@@ -14,8 +17,3 @@ R - restart the level
 Ctrl + G - restart the game
 
 Ctrl + F - fullscreen on/off
-
----
-![Sprite-0001](https://github.com/user-attachments/assets/8add5e5b-98b7-467f-95ed-faaa35201899)
-
-![Sprite-0001](https://github.com/user-attachments/assets/fe692d72-c9b6-43f7-a593-86db83ffcba9)

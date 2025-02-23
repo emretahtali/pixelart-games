@@ -33,5 +33,5 @@
 |--------------|--------------|
 
 ## [verlet cat](https://github.com/emretahtali/pixelart-games/tree/main/verlet%20cat)
-| ![](gif1.gif) | ![](gif2.gif) |
+| ![gameplay1](https://github.com/user-attachments/assets/8a269bff-5291-48ee-80fb-2ac0fed4f047) | ![gameplay2](https://github.com/user-attachments/assets/9003e980-26e8-46a8-9fa4-f86bbd112eff) |
 |--------------|--------------|

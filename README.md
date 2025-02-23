@@ -9,7 +9,7 @@
 
 
 ## [bicycle game](https://github.com/emretahtali/pixelart-games/tree/main/bicycle%20game)
-| ![](gif1.gif) | ![](gif2.gif) |
+| ![1st part](https://github.com/user-attachments/assets/20b6cad5-adce-4238-953d-81140d19d44b) | ![4th part](https://github.com/user-attachments/assets/d7189ff8-4ebc-4a10-af0f-d1187d8c136d) |
 |--------------|--------------|
 
 ## [ninja game prototype](https://github.com/emretahtali/pixelart-games/tree/main/ninja%20game%20prototype)

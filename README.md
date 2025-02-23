@@ -29,7 +29,7 @@
 |--------------|--------------|
 
 ## [topdown shooting game](https://github.com/emretahtali/pixelart-games/tree/main/topdown%20shooting%20prototype)
-| ![](gif1.gif) | ![](gif2.gif) |
+| ![gameplay2 v2](https://github.com/user-attachments/assets/06239dee-8c3c-414b-8c03-ab3f20a10d2b) | ![enemy ai v2](https://github.com/user-attachments/assets/7afc57f9-def1-4272-9bfb-a5507feb644f)|
 |--------------|--------------|
 
 ## [verlet cat](https://github.com/emretahtali/pixelart-games/tree/main/verlet%20cat)

@@ -4,8 +4,9 @@
 |--------------|--------------|
 
 ## [a way out](https://github.com/emretahtali/pixelart-games/tree/main/a%20way%20out)
-| ![gameplay1](https://github.com/user-attachments/assets/ed8d493e-f015-46db-946c-93abb85156eb) | ![hardlevel2](https://github.com/user-attachments/assets/f8dfbc6c-56c5-4323-b046-127e309f8f3e) |
+| ![gameplay1](https://github.com/user-attachments/assets/ed8d493e-f015-46db-946c-93abb85156eb) | ![hard level](https://github.com/user-attachments/assets/7c2c42bd-f788-4435-8dfa-897e11818e08) |
 |--------------|--------------|
+
 
 ## [bicycle game](https://github.com/emretahtali/pixelart-games/tree/main/bicycle%20game)
 | ![](gif1.gif) | ![](gif2.gif) |

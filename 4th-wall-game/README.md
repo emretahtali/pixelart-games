@@ -5,7 +5,7 @@
 | ![roomtour2](https://github.com/user-attachments/assets/84d7d522-0a78-459a-86c6-01b453c4fbd6) | ![bathroom](https://github.com/user-attachments/assets/e75881ba-cecd-4429-a5aa-329c2ebdff79) |
 
 ---
-this is a game prototype i created in 2019 when i first started game developing.
+this is a game prototype i've created in 2019 when i first started game developing.
 
 it's made in GameMaker Studio 2.
 

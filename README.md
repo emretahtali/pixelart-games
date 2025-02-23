@@ -25,7 +25,7 @@
 |--------------|--------------|
 
 ## [snake](https://github.com/emretahtali/pixelart-games/tree/main/snake)
-| ![](gif1.gif) | ![](gif2.gif) |
+| ![gameplay1](https://github.com/user-attachments/assets/1ab2e86a-4156-4151-8e76-de01a35daae3) | ![gameplay2](https://github.com/user-attachments/assets/0c6fb24a-2d93-4c09-90db-594cfa115724) |
 |--------------|--------------|
 
 ## [topdown shooting game](https://github.com/emretahtali/pixelart-games/tree/main/topdown%20shooting%20prototype)

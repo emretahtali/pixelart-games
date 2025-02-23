@@ -21,7 +21,7 @@
 |--------------|--------------|
 
 ## [screwdriver bullet hell](https://github.com/emretahtali/pixelart-games/tree/main/screwdriver%20bullet%20hell)
-| ![](gif1.gif) | ![](gif2.gif) |
+| ![gameplay1](https://github.com/user-attachments/assets/b37ea683-ca10-4fdd-a9d8-618ddd13ffdd) | ![gameplay2](https://github.com/user-attachments/assets/bf25778b-620f-483c-bda4-874bde056e59) |
 |--------------|--------------|
 
 ## [snake](https://github.com/emretahtali/pixelart-games/tree/main/snake)

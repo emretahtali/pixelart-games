@@ -13,7 +13,7 @@
 |--------------|--------------|
 
 ## [ninja game prototype](https://github.com/emretahtali/pixelart-games/tree/main/ninja%20game%20prototype)
-| ![](gif1.gif) | ![](gif2.gif) |
+| ![jump](https://github.com/user-attachments/assets/3f2f2ab5-63ea-4bd2-8675-5f3130a86019) | ![run around](https://github.com/user-attachments/assets/34c78bc2-597b-4978-9bfe-76f8a8cc1671) |
 |--------------|--------------|
 
 ## [routeboard](https://github.com/emretahtali/pixelart-games/tree/main/routeboard)

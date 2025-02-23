@@ -17,7 +17,7 @@
 |--------------|--------------|
 
 ## [routeboard](https://github.com/emretahtali/pixelart-games/tree/main/routeboard)
-| ![](gif1.gif) | ![](gif2.gif) |
+| ![connecting nodes](https://github.com/user-attachments/assets/32f31932-464d-4afb-b22f-c1adabd6270b) | ![saving and typing](https://github.com/user-attachments/assets/ca2689b7-e871-4e3e-8c40-4767709ebafa) |
 |--------------|--------------|
 
 ## [screwdriver bullet hell](https://github.com/emretahtali/pixelart-games/tree/main/screwdriver%20bullet%20hell)
